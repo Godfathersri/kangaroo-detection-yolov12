@@ -73,7 +73,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--mode", choices=["train", "val", "predict", "all"], default="all")
     ap.add_argument("--model", default="yolov12n.pt")
-    ap.add_argument("--data", default="data_sample/augmented/data.yaml")
+    ap.add_argument("--data", default="data_sample/data.yaml")
     ap.add_argument("--weights", default="")
     ap.add_argument("--imgsz", type=int, default=512)
     ap.add_argument("--epochs", type=int, default=30)
