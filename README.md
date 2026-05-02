@@ -4,7 +4,7 @@ This project fine-tunes a YOLOv12 object detection model to detect kangaroos in 
 
 ## Problem
 
-kangroos are a major contributer to animal-related vehicle collisions in Australia. Exitsting general object detection models are often not optimized for Australian widlife, so project focuses on training a custom model dataset specifically for kangroo detection. 
+Kangroos are a major contributer to animal-related vehicle collisions in Australia. Exitsting general object detection models are often not optimized for Australian widlife, so project focuses on training a custom model dataset specifically for kangroo detection. 
 
 ## Tech Stack
 
